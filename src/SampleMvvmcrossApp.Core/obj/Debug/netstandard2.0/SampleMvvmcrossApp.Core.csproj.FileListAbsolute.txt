@@ -1,0 +1,9 @@
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/bin/Debug/netstandard2.0/SampleMvvmcrossApp.Core.deps.json
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/bin/Debug/netstandard2.0/SampleMvvmcrossApp.Core.dll
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/bin/Debug/netstandard2.0/SampleMvvmcrossApp.Core.pdb
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.csproj.AssemblyReference.cache
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.AssemblyInfoInputs.cache
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.AssemblyInfo.cs
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.csproj.CoreCompileInputs.cache
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.dll
+/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.Core/obj/Debug/netstandard2.0/SampleMvvmcrossApp.Core.pdb

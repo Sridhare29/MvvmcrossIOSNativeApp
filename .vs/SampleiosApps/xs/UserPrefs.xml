@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/MyViewController.cs">
+    <Files>
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/MyViewController.cs" Line="16" Column="33" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="15" Column="3" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleiosApps" expanded="True">
+            <Node name="SampleMvvmcrossApp.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="SampleMvvmcrossApp.iOS" expanded="True">
+              <Node name="Cell" expanded="True">
+                <Node name="MyViewController.xib" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
+</Properties>
