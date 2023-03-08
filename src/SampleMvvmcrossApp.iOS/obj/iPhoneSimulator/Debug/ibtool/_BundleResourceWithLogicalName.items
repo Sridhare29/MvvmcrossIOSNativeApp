@@ -5,6 +5,10 @@
       <Optimize>false</Optimize>
       <LogicalName>MyViewController.nib</LogicalName>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/LoginViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib">
       <Optimize>false</Optimize>
       <LogicalName>XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib</LogicalName>

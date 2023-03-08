@@ -15,6 +15,7 @@ namespace SampleMvvmcrossApp.iOS.Cell
         {
             base.ViewDidLoad ();
             saybtn.TouchUpInside += Saybtn_TouchUpInside;
+            //Simple Alert Display textview and button
         }
 
         private void Saybtn_TouchUpInside(object sender, EventArgs e)
@@ -29,7 +30,6 @@ namespace SampleMvvmcrossApp.iOS.Cell
         public override void DidReceiveMemoryWarning ()
         {
             base.DidReceiveMemoryWarning ();
-            // Release any cached data, images, etc that aren't in use.
         }
     }
 }

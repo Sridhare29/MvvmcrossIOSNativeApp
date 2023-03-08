@@ -149,6 +149,11 @@
     <Compile Include="Cell\ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
+    <InterfaceDefinition Include="Cell\LoginViewController.xib" />
+    <Compile Include="Cell\LoginViewController.cs" />
+    <Compile Include="Cell\LoginViewController.designer.cs">
+      <DependentUpon>LoginViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

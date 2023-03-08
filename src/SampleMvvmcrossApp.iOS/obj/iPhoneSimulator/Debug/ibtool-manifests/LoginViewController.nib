@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict/>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict>
+		<key>NQL-Pm-fUc</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>NQL-Pm-fUc</string>
+				</array>
+				<key>message</key>
+				<string>RegisterViewController view outlet and NIB Name set</string>
+				<key>type</key>
+				<string>IBIssueTypeUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+		<key>VWj-l4-v7A</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>VWj-l4-v7A</string>
+				</array>
+				<key>message</key>
+				<string>Filled Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+		<key>n2r-nf-3iD</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>n2r-nf-3iD</string>
+				</array>
+				<key>message</key>
+				<string>Subtitles for Plain Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+		<key>vHM-Up-FUf</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>vHM-Up-FUf</string>
+				</array>
+				<key>message</key>
+				<string>Filled Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
