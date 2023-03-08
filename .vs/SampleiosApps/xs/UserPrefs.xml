@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default">
-  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/MyViewController.cs">
     <Files>
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/MyViewController.cs" Line="16" Column="33" />
@@ -28,6 +28,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MultiItemStartupConfigurations />
 </Properties>
