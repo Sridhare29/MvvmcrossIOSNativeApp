@@ -8,21 +8,6 @@
 	<dict/>
 	<key>com.apple.ibtool.document.warnings</key>
 	<dict>
-		<key>NQL-Pm-fUc</key>
-		<array>
-			<dict>
-				<key>affected-objects</key>
-				<array>
-					<string>NQL-Pm-fUc</string>
-				</array>
-				<key>message</key>
-				<string>RegisterViewController view outlet and NIB Name set</string>
-				<key>type</key>
-				<string>IBIssueTypeUnsupportedConfiguration</string>
-				<key>type-value</key>
-				<integer>9</integer>
-			</dict>
-		</array>
 		<key>VWj-l4-v7A</key>
 		<array>
 			<dict>

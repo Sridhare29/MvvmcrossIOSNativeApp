@@ -1,10 +1,11 @@
 using System;
-
+using MvvmCross.Platforms.Ios.Views;
+using SampleMvvmcrossApp.Core.ViewModels;
 using UIKit;
 
 namespace SampleMvvmcrossApp.iOS.Cell
 {
-    public partial class LoginViewController : UIViewController
+    public partial class LoginViewController : MvxViewController<LoginViewModel>
     {
         public LoginViewController () : base ("LoginViewController", null)
         {

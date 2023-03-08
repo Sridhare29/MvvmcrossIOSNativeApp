@@ -14,7 +14,7 @@ namespace SampleMvvmcrossApp.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<XamViewModel>();
+            RegisterAppStart<Samplexam>();
         }
     }
 }

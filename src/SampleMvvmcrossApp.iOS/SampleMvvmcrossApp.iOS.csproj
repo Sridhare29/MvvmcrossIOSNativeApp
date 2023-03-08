@@ -154,6 +154,11 @@
     <Compile Include="Cell\LoginViewController.designer.cs">
       <DependentUpon>LoginViewController.cs</DependentUpon>
     </Compile>
+    <InterfaceDefinition Include="Cell\Flow.storyboard" />
+    <Compile Include="Cell\Flow.cs" />
+    <Compile Include="Cell\Flow.designer.cs">
+      <DependentUpon>Flow.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

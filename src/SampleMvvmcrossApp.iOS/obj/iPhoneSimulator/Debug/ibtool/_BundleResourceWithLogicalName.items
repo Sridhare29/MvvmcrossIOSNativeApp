@@ -39,5 +39,20 @@
       <LogicalName>LaunchScreen.storyboardc/Info.plist</LogicalName>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc/pgI-Ix-FOa-view-aX9-aR-jLX.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/pgI-Ix-FOa-view-aX9-aR-jLX.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc/Flow.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/Flow.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
   </ItemGroup>
 </Project>

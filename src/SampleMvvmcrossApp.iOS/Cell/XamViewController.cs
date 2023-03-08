@@ -3,18 +3,20 @@
 using System;
 
 using Foundation;
+using MvvmCross.Platforms.Ios.Presenters.Attributes;
 using MvvmCross.Platforms.Ios.Views;
 using SampleMvvmcrossApp.Core.ViewModels;
 using UIKit;
 
 namespace SampleMvvmcrossApp.iOS.Cell
 {
-    [MvxFromStoryboard]
+    [MvxFromStoryboard("XAmStoryboard")]
+    [MvxTabPresentation(WrapInNavigationController = true, TabName = "XamViewController")]
 
     public partial class XamViewController : UIViewController
 	{
-		public XamViewController (IntPtr handle) : base (handle)
-		{
+		public XamViewController (IntPtr handle) : base(nameof(XamViewController), null)
+        {
 		}
         public override void ViewDidLoad()
         {

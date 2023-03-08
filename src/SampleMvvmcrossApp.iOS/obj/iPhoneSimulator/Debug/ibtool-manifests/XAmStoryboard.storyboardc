@@ -23,6 +23,36 @@
 				<integer>5</integer>
 			</dict>
 		</array>
+		<key>VmC-IV-QGZ</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>VmC-IV-QGZ</string>
+				</array>
+				<key>message</key>
+				<string>Filled Button Style before iOS 15.0</string>
+				<key>type</key>
+				<string>IBIssueTypeAttributeUnavailable</string>
+				<key>type-value</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+		<key>wyi-l8-VGM</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>wyi-l8-VGM</string>
+				</array>
+				<key>message</key>
+				<string>“Samplevc“ is unreachable because it has no entry points, and no identifier for runtime access via -[UIStoryboard instantiateViewControllerWithIdentifier:].</string>
+				<key>type</key>
+				<string>IBIssueTypeUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>

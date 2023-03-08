@@ -6,15 +6,19 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs">
     <Files>
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/MyViewController.cs" Line="18" Column="55" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="15" Column="3" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" Line="6" Column="40" />
-      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="17" Column="42" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.designer.cs" Line="29" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.cs" Line="28" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="16" Column="48" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" Line="9" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" Line="6" Column="41" />
+      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="21" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.designer.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.cs" Line="8" Column="80" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/LoginViewModel.cs" Line="6" Column="47" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/AlexaVM.cs" Line="6" Column="31" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" Line="18" Column="4" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.designer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,7 +29,7 @@
             </Node>
             <Node name="SampleMvvmcrossApp.iOS" expanded="True">
               <Node name="Cell" expanded="True">
-                <Node name="LoginViewController.xib" selected="True" />
+                <Node name="LoginViewController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
