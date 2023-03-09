@@ -12,9 +12,31 @@ namespace SampleMvvmcrossApp.iOS.Cell.Authentication
 	[Register ("LoginStoryboard")]
 	partial class LoginStoryboard
 	{
+		[Outlet]
+		UIKit.UITextField emailtext { get; set; }
+
+		[Outlet]
+		UIKit.UIButton loginbtn { get; set; }
+
+		[Outlet]
+		UIKit.UITextField passtxt { get; set; }
 		
 		void ReleaseDesignerOutlets ()
 		{
+			if (emailtext != null) {
+				emailtext.Dispose ();
+				emailtext = null;
+			}
+
+			if (passtxt != null) {
+				passtxt.Dispose ();
+				passtxt = null;
+			}
+
+			if (loginbtn != null) {
+				loginbtn.Dispose ();
+				loginbtn = null;
+			}
 		}
 	}
 }

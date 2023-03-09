@@ -20,5 +20,16 @@ namespace SampleMvvmcrossApp.iOS.Cell.Authentication
             base.ViewDidLoad();
 
         }
+        //public override void PrepareForSegue(UIStoryboardSegue segue, NSObject sender)
+        //{
+        //    base.PrepareForSegue(segue, sender);
+        //    if (segue.Identifier == "signupnavigate")
+        //    {
+        //        var destinationViewController = segue.DestinationViewController as RegisterViewController;
+        //        destinationViewController.email = emailtext.Text;
+        //    }
+          
+                
+        //}
     }
 }

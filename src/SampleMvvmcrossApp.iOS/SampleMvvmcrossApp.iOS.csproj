@@ -159,9 +159,9 @@
     <Compile Include="Cell\Authentication\LoginStoryboard.designer.cs">
       <DependentUpon>LoginStoryboard.cs</DependentUpon>
     </Compile>
-    <Compile Include="Cell\Authentication\RegisterViewController.cs" />
-    <Compile Include="Cell\Authentication\RegisterViewController.designer.cs">
-      <DependentUpon>RegisterViewController.cs</DependentUpon>
+    <Compile Include="Cell\Authentication\SignupViewControl.cs" />
+    <Compile Include="Cell\Authentication\SignupViewControl.designer.cs">
+      <DependentUpon>SignupViewControl.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

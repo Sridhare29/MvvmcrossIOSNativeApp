@@ -55,6 +55,16 @@
       <LogicalName>LoginStoryboard.storyboardc/Bte-YE-A87-view-dN1-FX-S5c.nib</LogicalName>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/UIViewController-31N-64-s0f.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/UIViewController-31N-64-s0f.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/31N-64-s0f-view-d3z-DE-N46.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/31N-64-s0f-view-d3z-DE-N46.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/Info.plist">
       <Optimize>false</Optimize>
       <LogicalName>LoginStoryboard.storyboardc/Info.plist</LogicalName>
