@@ -1,24 +1,21 @@
 ﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C530077B-F74A-4EB0-A5DE-536B46413024" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.cs">
     <Files>
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="16" Column="48" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" Line="9" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" Line="6" Column="41" />
-      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="21" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.designer.cs" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.cs" Line="8" Column="80" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/LoginViewController.designer.cs" Line="1" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/LoginViewModel.cs" Line="6" Column="47" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/AlexaVM.cs" Line="6" Column="31" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" Line="18" Column="4" />
+      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="17" Column="44" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.cs" Line="6" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" Line="13" Column="11" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.designer.cs" Line="29" Column="1" />
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.designer.cs" Line="1" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" Line="6" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,16 +26,15 @@
             </Node>
             <Node name="SampleMvvmcrossApp.iOS" expanded="True">
               <Node name="Cell" expanded="True">
-                <Node name="LoginViewController.cs" selected="True" />
+                <Node name="Authentication" expanded="True">
+                  <Node name="LoginViewController.cs" expanded="True" selected="True" />
+                </Node>
+                <Node name="Flow.cs" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

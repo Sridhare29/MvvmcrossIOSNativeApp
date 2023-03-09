@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool/MyViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>MyViewController.nib</LogicalName>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc/XamViewController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>XAmStoryboard.storyboardc/XamViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>XAmStoryboard.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/XAmStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>LaunchScreen.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc/pgI-Ix-FOa-view-aX9-aR-jLX.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/pgI-Ix-FOa-view-aX9-aR-jLX.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc/Flow.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/Flow.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Flow.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc/Bte-YE-A87-view-dN1-FX-S5c.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/Bte-YE-A87-view-dN1-FX-S5c.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc/UIViewController-Bte-YE-A87.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/UIViewController-Bte-YE-A87.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Release/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

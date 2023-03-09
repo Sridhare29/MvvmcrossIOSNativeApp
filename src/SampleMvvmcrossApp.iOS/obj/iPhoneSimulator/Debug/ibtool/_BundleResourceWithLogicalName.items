@@ -5,10 +5,6 @@
       <Optimize>false</Optimize>
       <LogicalName>MyViewController.nib</LogicalName>
     </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool/LoginViewController.nib">
-      <Optimize>false</Optimize>
-      <LogicalName>LoginViewController.nib</LogicalName>
-    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib">
       <Optimize>false</Optimize>
       <LogicalName>XAmStoryboard.storyboardc/tma-UG-3F5-view-IPN-jR-5T3.nib</LogicalName>
@@ -53,6 +49,21 @@
       <Optimize>false</Optimize>
       <LogicalName>Flow.storyboardc/Info.plist</LogicalName>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/Flow.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/Bte-YE-A87-view-dN1-FX-S5c.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/Bte-YE-A87-view-dN1-FX-S5c.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc/LoginStoryboard.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>LoginStoryboard.storyboardc/LoginStoryboard.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhoneSimulator/Debug/ibtool-link/LoginStoryboard.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>
   </ItemGroup>
 </Project>

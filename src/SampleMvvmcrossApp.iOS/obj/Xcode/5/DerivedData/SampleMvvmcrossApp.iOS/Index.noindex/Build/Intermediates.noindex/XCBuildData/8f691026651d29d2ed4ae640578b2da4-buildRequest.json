@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c11cb52f639c540c615d31be43ab4a35d1c963708060bf560707698f16cbdf77"
+    }
+  ],
+  "containerPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/SampleMvvmcrossApp.iOS.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/sridharelumalai/Projects/Blank/SampleMvvmcrossApp/src/SampleMvvmcrossApp.iOS/obj/Xcode/5/DerivedData/SampleMvvmcrossApp.iOS/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
