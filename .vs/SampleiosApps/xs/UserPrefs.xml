@@ -1,35 +1,39 @@
-﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C530077B-F74A-4EB0-A5DE-536B46413024" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.Droid PreferredExecutionTarget="Android.SelectDevice" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default">
+  <DisabledProjects>
+    <String>src/SampleMvvmcrossApp.Droid/SampleMvvmcrossApp.Droid.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs">
     <Files>
-      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="17" Column="44" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.cs" Line="6" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" Line="13" Column="11" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginViewController.designer.cs" Line="29" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.designer.cs" Line="1" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" Line="6" Column="18" />
+      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.designer.cs" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Loginview.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginStoryboard.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginStoryboard.designer.cs" />
+      <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Main/Signupview.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/SignupViewControl.cs" Line="15" Column="4" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SampleiosApps" expanded="True">
             <Node name="SampleMvvmcrossApp.Core" expanded="True">
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Main" expanded="True" />
+              </Node>
             </Node>
             <Node name="SampleMvvmcrossApp.iOS" expanded="True">
               <Node name="Cell" expanded="True">
                 <Node name="Authentication" expanded="True">
-                  <Node name="LoginViewController.cs" expanded="True" selected="True" />
+                  <Node name="SignupViewControl.cs" expanded="True" />
                 </Node>
                 <Node name="Flow.cs" expanded="True" />
+                <Node name="XamViewController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -37,4 +41,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
