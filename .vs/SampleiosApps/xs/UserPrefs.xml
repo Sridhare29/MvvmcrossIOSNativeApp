@@ -1,20 +1,18 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/16.2.0.5/lib/msbuild/iOS/Xamarin.Shared.targets">
+﻿<Properties StartupConfiguration="{4EDCC5E7-DAB3-46C4-8E44-573A02FA8CA4}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SampleMvvmcrossApp.Core/App.cs">
     <Files>
-      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" />
+      <File FileName="src/SampleMvvmcrossApp.Core/App.cs" Line="1" Column="1" />
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.cs" />
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Flow.designer.cs" />
       <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Samplexam.cs" />
       <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Loginview.cs" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" Line="9" Column="1" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Main.cs" />
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginStoryboard.designer.cs" />
       <File FileName="src/SampleMvvmcrossApp.Core/ViewModels/Main/Signupview.cs" />
       <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/SignupViewControl.cs" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" Line="1" Column="1" />
-      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginStoryboard.cs" Line="1" Column="1" />
-      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="1430" Column="3" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/XamViewController.cs" />
+      <File FileName="src/SampleMvvmcrossApp.iOS/Cell/Authentication/LoginStoryboard.cs" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,6 +22,7 @@
               <Node name="ViewModels" expanded="True">
                 <Node name="Main" expanded="True" />
               </Node>
+              <Node name="App.cs" selected="True" />
             </Node>
             <Node name="SampleMvvmcrossApp.iOS" expanded="True">
               <Node name="Cell" expanded="True">
@@ -38,12 +37,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <DisabledProjects>
     <String>src/SampleMvvmcrossApp.Droid/SampleMvvmcrossApp.Droid.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SampleMvvmcrossApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C62486-DDCD-4F9E-99DD-DFB4B30AE2BC" />
 </Properties>
